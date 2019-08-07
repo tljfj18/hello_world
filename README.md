@@ -1,2 +1,3 @@
 # hello_world
-github tutorial
+tutorial  
+I'm a AI research developer from China.
